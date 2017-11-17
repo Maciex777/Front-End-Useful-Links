@@ -24,7 +24,9 @@ Free icons and photos: <br/>
 •	https://pixabay.com/  <br/>
 •	www.vecteezy.com/	 <br/>
 •	http://superawesomevectors.com/	 <br/>
-•	https://www.cannypic.com/  <br/><br/>
+•	https://www.cannypic.com/  <br/>
+•	https://icons8.com/icon/  <br/>
+•	https://www.iconfinder.com/ <br/><br/>
 
 <table>
 <tr><th>Generators</th><th></th></tr>
